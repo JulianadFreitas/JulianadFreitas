@@ -11,7 +11,7 @@
 
 - 🎧  &nbsp; I likeI to listen music on my free time
 
-- 👩‍💻 &nbsp;  Looking for new opportunities 
+- 👩‍💻 &nbsp; I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes. 
 
 
 
