@@ -8,7 +8,7 @@
 
 - 🌱 &nbsp; Studying to become a professional Full Stack Developer
 
-- 🎧  &nbsp; I likeI to listen music on my free time
+- 🎧  &nbsp; I like to listen music on my free time
 
 - 👩‍💻 &nbsp; I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
 
