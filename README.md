@@ -10,8 +10,7 @@
 
 - 🎧  &nbsp; I like to listen music on my free time
 
-- 👩‍💻 &nbsp; I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
-
+- 👩‍💻 &nbsp; I'm passionate about learning new knowledge and being able to recognize it to solve problems and help the world become a better place.
 
 
 
