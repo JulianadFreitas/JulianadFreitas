@@ -1,8 +1,6 @@
 <h1> Hey! 🙋‍♀️</h1>
 
-
-<h1>  &nbsp;About Me </h1>
-
+  &nbsp;About Me 
 
 - 🎓 &nbsp; Geoprocessing Technician 🌎
 
