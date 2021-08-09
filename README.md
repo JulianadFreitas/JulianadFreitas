@@ -1,6 +1,4 @@
-### Hello World, I'm Anna  👋
-
-
+### Hello World, I'm Juliana  👋
 
 - 🎓 Geoprocessing Technician 
 - 🌱 Studying to become a professional Full Stack Developer
