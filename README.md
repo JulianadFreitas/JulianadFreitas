@@ -1,41 +1,50 @@
-<h1> Hey! 🙋‍♀️</h1>
-
-  &nbsp;About Me 
-
-- 🎓 &nbsp; Geoprocessing Technician 🌎
-
-- 🌱 &nbsp; Studying to become a professional Full Stack Developer
-
-- 🎧  &nbsp; I like to listen music on my free time
-
-- 👩‍💻 &nbsp; I'm passionate about learning new knowledge and being able to recognize it to solve problems and help the world become a better place.
+### Hello World, I'm Anna  👋
 
 
 
-<h2>🛠 &nbsp;Tech Stack</h2>
+- 🎓 Geoprocessing Technician 
+- 🌱 Studying to become a professional Full Stack Developer
+- 🎧 I like to listen music on my free time
+- 👩‍💻 I'm passionate about learning new knowledge and being able to recognize it to solve problems and help the world become a better place.
+- 😄 Pronouns: She/Her
 
-<h3>🌐 &nbsp; Web Technologies<h3>
+<br />
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+### Languages and Tools:
 
-<h3>⚙️&nbsp; Version Control Tools</h3>
+<img align="left" alt="Visual Studio Code" width="26px" margin-left="5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" margin-left="5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" left="5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSharp" width="26px" left="5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="JavaScript" width="26px" left="5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" left="5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" left="5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="python" width="26px" left="5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="flask" width="26px" left="5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img align="left" alt="SQL" width="26px" left="5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="postgreSQL" width="26px" left="5px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="Git" left="5px" width="26px" left="5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" left="5px" width="26px" left="5px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Docker" left="5px" width="26px" left="5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Terminal"left="5px" width="26px" left="5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<br />
+<br />
+---
 
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-
-
-  
-<h2> :chart: &nbsp;GitHub Stats </h2>
-
+<details>
+  <summary> GitHub Stats</summary>
 <a  href="https://github.com/JulianadFreitas">
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=JulianadFreitas&theme=buefy&show_icons=true">
 </a>
+</details>
+<details>
+  <summary> Most Used Languages</summary>
+
 <a  href="https://github.com/JulianadFreitas">
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianadFreitas&theme=buefy&layout=compact">
 </a>
+</details>
 
   
 
