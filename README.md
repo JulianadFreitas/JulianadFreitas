@@ -23,7 +23,6 @@
 <br />
 
 ----
-
 <details>
   <summary> ⚡  GitHub Stats</summary>
 <a  href="https://github.com/JulianadFreitas">
