@@ -1,5 +1,5 @@
 ### Hello World, I'm Juliana 🙋‍♀️
-<img align="right" alt="GIF" src="computer.jpg" width="30%" height="30%" />
+<img align="right" alt="GIF" src="computer.jpg" width="40%" height="40%" />
 
 - 🌎 Geoprocessing Technician 
 - 🌱 Studying to become a professional Full Stack Developer
