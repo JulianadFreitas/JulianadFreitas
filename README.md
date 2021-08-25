@@ -1,7 +1,7 @@
 ### Hello World, I'm Juliana 🙋‍♀️
 
 - 🌎 Geoprocessing Technician 
-- 🌱 Studying to become a professional Full Stack Developer
+- 🌱 Full Stack Developer
 - 🎧 I like to listen music on my free time
 - 👩‍💻 I am passionate about learning new knowledge and applying it in practice to solve problems and help the world become a better place.
 - 😄 Pronouns: She/Her
